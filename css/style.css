@@ -2,6 +2,8 @@ body {
     font-family: Cormorant, serif;
 }
 
+/* NAV */
+
 .header, .nav, .nav__item {
     display: inline-block;
 }
@@ -31,6 +33,10 @@ body {
     border-bottom: 1px solid #000;
 }
 
+/* END OF NAV */
+
+/* GALLERY */
+
 .gallery {
     padding: 16px;
 }
@@ -48,11 +54,19 @@ body {
     object-fit: cover;
 }
 
+.box__image:hover {
+    opacity: 0.9;
+}
+
 .box__header {
     display: inline-block;
     margin: 8px 0 16px 0;
     font-weight: 300;
 }
+
+/* END OF GALLERY */
+
+/* ABOUT */
 
 .about {
     width: 45%;
@@ -80,3 +94,5 @@ body {
     margin: 0;
     font-size: 20px;
 }
+
+/* END OF ABOUT */
