@@ -30,3 +30,26 @@ body {
 .active {
     border-bottom: 1px solid #000;
 }
+
+.gallery {
+    padding: 16px;
+}
+
+.box {
+    width: 49.75%;
+    display: inline-block;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.box__image {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.box__header {
+    display: inline-block;
+    margin: 8px 0 16px 0;
+    font-weight: 300;
+}
