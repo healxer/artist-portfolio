@@ -1,3 +1,32 @@
 body {
     font-family: Cormorant, serif;
 }
+
+.header, .nav, .nav__item {
+    display: inline-block;
+}
+
+.header__container {
+    margin: 32px;
+}
+
+.header {
+    font-weight: 300;
+    margin: 0;
+    margin-right: 32px;
+}
+
+.nav__list {
+    padding: 0;
+}
+
+.nav__link {
+    color: #000;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 0 8px;
+}
+
+.active {
+    border-bottom: 1px solid #000;
+}
