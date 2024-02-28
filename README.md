@@ -1,6 +1,6 @@
 # Artist Portfolio
 
- Live version: [Artist Portfolio](healxer.github.io/artist-portfolio/).
+See the simple artist portfolio: [Artist Portfolio](healxer.github.io/artist-portfolio/)
 
 
 &nbsp;
