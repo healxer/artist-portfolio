@@ -3,7 +3,6 @@
 ## 🎬 Live
 See the simple artist portfolio: [Artist Portfolio](https://healxer.github.io/artist-portfolio/)
 
-&nbsp;
  
 ## 🖥️ Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
